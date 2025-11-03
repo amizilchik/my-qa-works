@@ -1,4 +1,3 @@
-
 -- 1. Проверить тестового пользователя после регистрации
 SELECT * FROM users WHERE email = 'test@example.com';
 
@@ -28,4 +27,3 @@ SELECT * FROM users WHERE phone IS NULL;
 
 -- 10. Удалить тестовые данные после тестирования
 DELETE FROM users WHERE email LIKE '%test%';
-
