@@ -30,3 +30,6 @@ Medium
 
 ### Priority
 Medium
+
+### Attachments
+![photo_2025-11-07_12-55-35](https://github.com/user-attachments/assets/324578b6-5d48-473a-a9b1-d9f3b7dbc3ac)
